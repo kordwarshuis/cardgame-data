@@ -1,1 +1,5 @@
-/.DS_Store
+.gitignore
+.DS_Store
+.history
+live.sh
+_backup/
