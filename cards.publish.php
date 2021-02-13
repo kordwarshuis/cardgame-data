@@ -28,16 +28,6 @@
 
     $var_str = var_export($cards, true);
     file_put_contents('cards.csv', $var_str);
-
-
-
-    // about
-    $about = file_get_contents("https://docs.google.com/spreadsheets/d/e/2PACX-1vS92RQKhq5cciwO67jnAU0oZGxfQxJBVKb6xX5WVKrHf_FaKkKcz55DEUXRB1QvjXu8JrIJl2ZnOGLH/pub?gid=1827241259&single=true&output=csv");
-
-    $var_str = var_export($about, true);
-    file_put_contents('about.csv', $var_str);
-
-    }
 	
     if(isset($_POST['button1'])) { 
         publish();
