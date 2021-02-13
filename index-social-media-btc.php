@@ -1,7 +1,7 @@
 <?php
 
 // Configuration: location of images
-$path = '/t/media/img/social-media/cards2/';// also change .env file
+$path = '/t/media/img/social-media/system/';// also change .env file
 $domain = 'https://blockchainbird.com';
 $defaultImage = 'https://blockchainbird.com/t/media/img/social-media/social-media-bitcoin8.jpg';
 $shortText = 'Bitcoin misconceptions.';
