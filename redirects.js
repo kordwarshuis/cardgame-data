@@ -65,4 +65,6 @@ if (window.location.href === 'https://blockchainbird.com/t/btc/?cat=Architecture
   window.location.replace('https://blockchainbird.com/t/btc/card/too-late');
 } else if (window.location.href === 'https://www.blockchainbird.com/t/btc/?cat=Environment&q=preview-proof-of-stake&title=Proof-of-stake%20coins%20are%20far%20more%20sustainable%20than%20mining%20bitcoin') {
   window.location.replace('https://blockchainbird.com/t/btc/card/proof-of-stake');
+} else if (window.location.href === 'https://www.blockchainbird.com/t/btc/card/energy-for-elsewhere') {
+  window.location.replace('https://blockchainbird.com/t/btc/card/energy-use-elsewhere');
 }
