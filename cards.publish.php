@@ -28,6 +28,8 @@
 
     $var_str = var_export($cards, true);
     file_put_contents('cards.csv', $var_str);
+
+    }
 	
     if(isset($_POST['button1'])) { 
         publish();
