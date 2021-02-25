@@ -54,6 +54,6 @@ var language = {
         message7: "All tweets with ‘bitcoin’ in it will show here.",
         message8: "Mostly relevant tweets about bitcoin will show here."
     },
-    footerContent: "<small><img style='width: 20px;height: 20px; margin-right: 15px;' src='https://blockchainbird.com/t/media/img/logo/cc_icon_white_x2.png' alt='Two C's next to each other'><img style='width: 20px;height: 20px; margin-right: 15px;' src='https://blockchainbird.com/t/media/img/logo/attribution_icon_white_x2.png' alt='A symbol of a person'>Except where otherwise noted, content on this site is licensed under a <a target='_blank' rel='noopener' class='light' href='https://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International license</a>.</small>"
+    footerContent: "<small><img style='width: 20px;height: 20px; margin-right: 15px;' src='https://blockchainbird.org/t/media/img/logo/cc_icon_white_x2.png' alt='Two C's next to each other'><img style='width: 20px;height: 20px; margin-right: 15px;' src='https://blockchainbird.org/t/media/img/logo/attribution_icon_white_x2.png' alt='A symbol of a person'>Except where otherwise noted, content on this site is licensed under a <a target='_blank' rel='noopener' class='light' href='https://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International license</a>.</small>"
 
 };

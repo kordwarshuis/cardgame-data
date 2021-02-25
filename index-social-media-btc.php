@@ -2,8 +2,8 @@
 
 // Configuration: location of images
 $path = '/t/media/img/social-media/system/';// also change .env file
-$domain = 'https://blockchainbird.com';
-$defaultImage = 'https://blockchainbird.com/t/media/img/social-media/social-media-bitcoin8.jpg';
+$domain = 'https://blockchainbird.org';
+$defaultImage = 'https://blockchainbird.org/t/media/img/social-media/social-media-bitcoin8.jpg';
 $shortText = 'Bitcoin misconceptions.';
 $longText = 'Misconceptions about bitcoin hold back progress. Found a misconception? Lookup-Copy-Paste our permanent links with curated expert info!';
 
@@ -42,7 +42,7 @@ if (check_file_exist($_SERVER['DOCUMENT_ROOT'].$path.$filename.'.jpg')) {
   <meta name=description content="<?php echo $longText;?>">
   <meta name=keywords content="<?php echo $longText;?>">
   <meta name=author content="Blockchain Bird">
-  <!-- <meta property=og:image itemprop=image content=https://blockchainbird.com/t/cardgametest/img-twitter/twitter.jpg> <meta -->
+  <!-- <meta property=og:image itemprop=image content=https://blockchainbird.org/t/cardgametest/img-twitter/twitter.jpg> <meta -->
   <meta property=og:image itemprop=image content=<?php echo $socialMediaImage;?>>
   <meta property=og:image:width content=1200>
   <meta property=og:image:height content=628>
