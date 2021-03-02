@@ -15,7 +15,7 @@ var language = {
     expert3Description: "This bitcoin misconception cleared up by the bitcoin wiki community: ",
     expert3Logo: "",
     misconception: "Misconception",
-    showAllCards: "Show all",
+    showAllCards: "Show all cards",
     backToCards: "Back to cards",
     backToCardIntro: "Back",
     reply: "Reply",
