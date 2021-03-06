@@ -49,11 +49,11 @@ var language = {
         message5: "<p>Play withthe configuration options to change the keywords, number of followers etc.</p>",
         message6: "<p>Depending on your search configurations it can take a while before real time tweets show.</p>",
         // message7: "<p>Play withthe configuration options to change the keywords, number of followers etc.</p>"
-        anyOfTheseStrings: "bitcoin will never, bitcoin can never, bitcoin just is not, bitcoin is one big, criminals, slow, laundering, energy, complicated, unfair, quantum, tax evaders, unsustainable, intrinsic value, shut down, scammers, roulette, only 21, not safe, black market, terrorists, tulip, greater fool, not scalable, anarchists, distribution unfair, hacked, anonymous, unsustainable, useless, ponzi, no backing, will die, forbidden, shut down, scammers, not gdpr, price down, terrorists, privacy breach, volatile, useless, deflation, chinese",
-        noneOfTheseStrings: "I've hacked your computer,play online casino,Airdrop,All you have to do is RT,I will give one random follower,I will give someone",
         message7: "All tweets with ‘bitcoin’ in it will show here.",
         message8: "Mostly relevant tweets about bitcoin will show here."
     },
+    anyOfTheseStrings: "bitcoin will never, bitcoin can never, bitcoin just is not, bitcoin is one big, criminals, slow, laundering, energy, complicated, unfair, quantum, tax evaders, unsustainable, intrinsic value, shut down, scammers, roulette, only 21, not safe, black market, terrorists, tulip, greater fool, not scalable, anarchists, distribution unfair, hacked, anonymous, unsustainable, useless, ponzi, no backing, will die, forbidden, shut down, scammers, not gdpr, price down, terrorists, privacy breach, volatile, useless, deflation, chinese",
+    noneOfTheseStrings: "I've hacked your computer,play online casino,Airdrop,All you have to do is RT,I will give one random follower,I will give someone",
     footerContent: "<small><img style='width: 20px;height: 20px; margin-right: 15px;' src='https://blockchainbird.org/t/media/img/logo/cc_icon_white_x2.png' alt='Two C's next to each other'><img style='width: 20px;height: 20px; margin-right: 15px;' src='https://blockchainbird.org/t/media/img/logo/attribution_icon_white_x2.png' alt='A symbol of a person'>Except where otherwise noted, content on this site is licensed under a <a target='_blank' rel='noopener' class='light' href='https://creativecommons.org/licenses/by/4.0/'>Creative Commons Attribution 4.0 International license</a>.</small>"
 
 };
