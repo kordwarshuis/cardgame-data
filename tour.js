@@ -10,9 +10,6 @@ const tour = {
   },
   steps: [{
       target: '.navbar',
-      header: {
-        title: 'Welcome to the card game',
-      },
       content: `Here you wil find misconceptions about Bitcoin.`
     },
     {
