@@ -9,10 +9,6 @@ const tour = {
     }
   },
   steps: [{
-      target: '.navbar',
-      content: `Here you wil find misconceptions about Bitcoin.`
-    },
-    {
       target: '.searchBar',
       content: 'The Search is fast and immediate and searchs for exact strings of text. Give it a try, it‘s fun',
       params: {
