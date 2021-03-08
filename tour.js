@@ -19,14 +19,16 @@ const tour = {
       target: '.searchBar',
       content: 'The Search is fast and immediate and searchs for exact strings of text. Give it a try, it‘s fun',
       params: {
-        placement: 'top'
+        placement: 'top',
+        enableScrolling: false
       }
     },
     {
       target: '.button-categories',
       content: 'Choose a category here.',
       params: {
-        placement: 'left'
+        placement: 'left',
+        enableScrolling: false
       }
     },
     {
