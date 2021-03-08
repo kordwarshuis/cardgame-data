@@ -1,4 +1,8 @@
 var language = {
+    tour: {
+        startTour: "Start short tour",
+        dontShowAgain: "Do not show this again"
+    },
     menu: {
         cards: "Cards",
         about: "About",
