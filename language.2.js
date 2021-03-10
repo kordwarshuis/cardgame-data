@@ -1,7 +1,7 @@
 var language = {
     tour: {
         welcome: "Welcome to the card game.",
-        description: "Here you wil find misconceptions about Bitcoin.",
+        description: "Here you will find misconceptions about Bitcoin.",
         startTour: "Start short tour",
         dontShowAgain: "Do not show this again"
     },

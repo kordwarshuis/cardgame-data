@@ -10,7 +10,7 @@ const tour = {
   },
   steps: [{
       target: '.searchBar',
-      content: 'The Search is fast and immediate and searchs for exact strings of text. Give it a try, it‘s fun',
+      content: 'The search is fast and immediate and searches for exact strings of text. Give it a try, it‘s fun',
       params: {
         placement: 'top',
         enableScrolling: false
@@ -37,7 +37,7 @@ const tour = {
       header: {
         title: 'Realtime tweets',
       },
-      content: `Here you will find a live tweet stream about Bitcoin, that you can configure to your needs.`
+      content: `Here you will find a live tweet stream about Bitcoin that you can configure to your needs.`
     }
   ]
 };
