@@ -27,7 +27,7 @@ var language = {
     reply: "Reply",
     related: "Related",
     keywords: "Keywords",
-    random: "Random",
+    random: "Random card",
     shortAnswer: "In Short",
     longAnswer: "Longer Answer",
     diagram: "Diagram",
