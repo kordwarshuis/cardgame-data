@@ -6,25 +6,73 @@
             <p>This is the place where real time tweets will stream. All tweets with keyword “bitcoin” will be loaded
                 but which tweets are shown depends on your configuration.</p>
 
-            <p>The top of the screen shows the number of incoming tweets every ten seconds.</p>
-
-            <p>Also the stream will show handpicked tweets every now and then. It may take a while before a realtime
-                tweet that meets your configuration settings </p>
+            <p>The screen shows the number of incoming tweets every ten seconds.</p>
 
             <p>The default configuration will not show many tweets.</p>
 
-            <p>The “clear” button will remove all tweets that are shown and wait for new tweets.</p>
-            <p>
-                <img style="width: 20px;" src="@/assets/img/icons/ui/configuration.svg" alt="" /> = to configuration
-                panel where you can configure your tweet stream.
-            </p>
-            <p>
-                <img style="width: 20px;" src="@/assets/img/icons/ui/003-stop.svg" alt="" /> will stop the tweet stream.
-            </p>
-            <p>
-                <img style="width: 20px;" src="@/assets/img/icons/ui/013-play.svg" alt="" /> will start the tweet
-                stream.
-            </p>
+            <table class="table table-dark table-bordered">
+                <tbody>
+                    <tr>
+                        <td>
+                            <img style="width: 20px;" src="/t/media/img/ui/013-play.svg" alt="" />
+                            <img style="width: 20px;" src="/t/media/img/ui/003-stop.svg" alt="" />
+                        </td>
+                        <td class="pl-1">
+                            <p>Will start or stop the tweet stream.</p>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>
+                            <img style="width: 20px;" src="/t/media/img/ui/configuration.svg" alt="" />
+                        </td>
+                        <td class="pl-1">
+                            <p>Configure your tweet stream.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <button disabled class="btn btn-sm btn-outline-light ml-0 clear-tweet-stream-button">Clear</button>
+                        </td>
+                        <td class="pl-1">
+                            <p>Remove the tweets in the stream.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <button disabled type="button" class="btn btn-outline-light btn-sm m-0">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                    class="bi bi-sort-up" viewBox="0 0 16 16">
+                                    <path
+                                        d="M3.5 12.5a.5.5 0 0 1-1 0V3.707L1.354 4.854a.5.5 0 1 1-.708-.708l2-1.999.007-.007a.498.498 0 0 1 .7.006l2 2a.5.5 0 1 1-.707.708L3.5 3.707V12.5zm3.5-9a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zM7.5 6a.5.5 0 0 0 0 1h5a.5.5 0 0 0 0-1h-5zm0 3a.5.5 0 0 0 0 1h3a.5.5 0 0 0 0-1h-3zm0 3a.5.5 0 0 0 0 1h1a.5.5 0 0 0 0-1h-1z" />
+                                </svg>
+                                <span class="visually-hidden"> Fllwrs</span>
+                            </button></td>
+                        <td class="pl-1">
+                            <p>Sort the tweets by number of follower.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <button disabled type="button" class="btn btn-outline-light btn-sm m-0">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                    class="bi bi-sort-up" viewBox="0 0 16 16">
+                                    <path
+                                        d="M3.5 12.5a.5.5 0 0 1-1 0V3.707L1.354 4.854a.5.5 0 1 1-.708-.708l2-1.999.007-.007a.498.498 0 0 1 .7.006l2 2a.5.5 0 1 1-.707.708L3.5 3.707V12.5zm3.5-9a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5zM7.5 6a.5.5 0 0 0 0 1h5a.5.5 0 0 0 0-1h-5zm0 3a.5.5 0 0 0 0 1h3a.5.5 0 0 0 0-1h-3zm0 3a.5.5 0 0 0 0 1h1a.5.5 0 0 0 0-1h-1z" />
+                                </svg>
+                                <span class="visually-hidden"> Nwst</span>
+                            </button>
+                        </td>
+                        <td class="pl-1">
+                            <p>Sort the tweets by time.</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+
+
+
+
         </div>
     </div>
 </div>
