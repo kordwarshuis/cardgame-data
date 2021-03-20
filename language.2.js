@@ -52,7 +52,7 @@ var language = {
         message2: "<h2>Gain eternal fame, spread bitcoin expertise</h2>",
         message3: "<h2>Step forward, spread bitcoin expertise</h2>",
         message4: "<h2>Get recognition, spread bitcoin expertise</h2>",
-        message5: "<p>Play withthe configuration options to change the keywords, number of followers etc.</p>",
+        message5: "<p>Play with the configuration options to change the keywords, number of followers etc.</p>",
         message6: "<p>Depending on your search configurations it can take a while before real time tweets show.</p>",
         // message7: "<p>Play withthe configuration options to change the keywords, number of followers etc.</p>"
         message7: "All tweets with ‘bitcoin’ in it will show here.",
