@@ -98,7 +98,24 @@ foreach ($cardContent as $key => $value) {
     } else {
         foreach ($value as $key2 => $value2) {
             if ($value[$arrayPositionUniqueURL] == $filename && $value2 != '') {
-                echo "<p>" . $value2 . "</p>\r\n";
+                if ($row0[$key2] == 'Misconception') {
+                    echo "<h1>" . $value2 . "</h1>\r\n";
+                } else if (
+                    $row0[$key2] != '\'Nr' &&
+                    $row0[$key2] != 'Pick' &&
+                    $row0[$key2] != 'Unique URL' &&
+                    $row0[$key2] != 'Illustration' &&
+                    $row0[$key2] != '#tag' &&
+                    $row0[$key2] != 'Short Url' &&
+                    $row0[$key2] != 'Stack' &&
+                    $row0[$key2] != 'Related' &&
+                    $row0[$key2] != 'I' &&
+                    $row0[$key2] != 'K' &&
+                    $row0[$key2] != 'H' &&
+                    $row0[$key2] != 'Flower Power'
+                ) {
+                    echo "<p>" . $value2 . "</p>\r\n";
+                }
             }
         }
     }
