@@ -40,7 +40,6 @@ var language = {
     openFullCard: "Open full card",
     counterQuestions: "Counter Questions",
     analogy: "Analogy",
-    flowerPower: "Flower Power",
     shareMessage: "You can now paste the link on Twitter, Facebook etc.",
     tweetStream: {
         message1: "<ul><li><h2>Find a tweet</h2></li><li><h2>Find a card</h2></li><li><h2>Reply with card</h2></li></ul>",
