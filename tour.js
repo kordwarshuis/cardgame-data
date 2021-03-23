@@ -8,9 +8,18 @@ const tour = {
       buttonStop: 'Finish'
     }
   },
-  steps: [{
+  steps: [
+    {
       target: '.searchBar',
-      content: 'The search is fast and immediate and searches for exact strings of text. Give it a try, it‘s fun',
+      content: 'The search is fast and immediate and searches for exact strings of text. Give it a try, it‘s fun.',
+      params: {
+        placement: 'top',
+        enableScrolling: false
+      }
+    },
+    {
+      target: '.key-bindings-info',
+      content: 'Find shortcut keys here (or type a question mark).',
       params: {
         placement: 'top',
         enableScrolling: false
