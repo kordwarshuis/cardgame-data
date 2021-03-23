@@ -3,7 +3,7 @@ var language = {
         welcome: "Welcome to the card game.",
         description: "Here you will find misconceptions about Bitcoin.",
         startTour: "Start short tour",
-        dontShowAgain: "Do not show this again (you can always start this tour at the bottom of the page"
+        dontShowAgain: "Do not show this again (you can always start this tour at the bottom of the page)"
     },
     menu: {
         cards: "Cards",
