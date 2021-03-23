@@ -111,8 +111,7 @@ foreach ($cardContent as $key => $value) {
                     $row0[$key2] != 'Related' &&
                     $row0[$key2] != 'I' &&
                     $row0[$key2] != 'K' &&
-                    $row0[$key2] != 'H' &&
-                    $row0[$key2] != 'Flower Power'
+                    $row0[$key2] != 'H'
                 ) {
                     echo "<p>" . $value2 . "</p>\r\n";
                 }
