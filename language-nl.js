@@ -49,6 +49,5 @@ var language = {
     searchResultsCopyOption: "Zoekresultaten",
     openFullCard: "Open kaart",
     counterQuestions: "Tegenvragen",
-    analogy:"Analogie",
-    flowerPower: "Flower Power"
+    analogy:"Analogie"
 };
