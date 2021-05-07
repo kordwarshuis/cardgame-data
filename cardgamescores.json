@@ -1,5 +1,70 @@
 {
-    "scores": [        {
+    "scores": [{
+            "time": "2021-05-04T08:02:03.000Z",
+            "full_name": "Bitcoin Prejudice Man",
+            "user_name": "@ManPrejudice",
+            "tweet_text": "If you believe Bitcoin doesn't make sense then every Joule is a waste. If you believe it is a better alternative for the current money system then you should also consider the energy consumption of the current system.\n\n“Bitcoin uses too much energy.”\n <img class=\"emoji\" draggable=\"false\" alt=\"👉\" src=\"https://abs.twimg.com/emoji/v2/72x72/1f449.png\"> <a href=\"https://t.co/lR35mRaJak\" target=\"_blank\" class=\"url-ext\" data-full-url=\"https://blockchainbird.org/t/btc/card/unsustainable\" rel=\"url noopener noreferrer\" title=\"https://blockchainbird.org/t/btc/card/unsustainable\">blockchainbird.org/t/btc/card/uns…</a>",
+            "tweet_avatar": "https://pbs.twimg.com/profile_images/1219242518707146752/V72yMMcK_normal.jpg",
+            "replies": "",
+            "retweets": "",
+            "likes": "",
+            "tweet_id": "1389490493751533571",
+            "url": "https://twitter.com/ManPrejudice/status/1389490493751533571",
+            "cardURLs": []
+        },
+        {
+            "time": "2021-05-03T05:53:38.000Z",
+            "full_name": "Bitcoin Prejudice Man",
+            "user_name": "@ManPrejudice",
+            "tweet_text": "“Bitcoin uses too much energy.”\n <img class=\"emoji\" draggable=\"false\" alt=\"👉\" src=\"https://abs.twimg.com/emoji/v2/72x72/1f449.png\"> <a href=\"https://t.co/lR35mRaJak\" target=\"_blank\" class=\"url-ext\" data-full-url=\"https://blockchainbird.org/t/btc/card/unsustainable\" rel=\"url noopener noreferrer\" title=\"https://blockchainbird.org/t/btc/card/unsustainable\">blockchainbird.org/t/btc/card/uns…</a>",
+            "tweet_avatar": "https://pbs.twimg.com/profile_images/1219242518707146752/V72yMMcK_normal.jpg",
+            "replies": "",
+            "retweets": "2",
+            "likes": "5",
+            "tweet_id": "1389095785933983751",
+            "url": "https://twitter.com/ManPrejudice/status/1389095785933983751",
+            "cardURLs": []
+        },
+        {
+            "time": "2021-05-02T19:37:26.000Z",
+            "full_name": "Bitcoin Prejudice Man",
+            "user_name": "@ManPrejudice",
+            "tweet_text": "“Bitcoin uses too much energy.”\n <img class=\"emoji\" draggable=\"false\" alt=\"👉\" src=\"https://abs.twimg.com/emoji/v2/72x72/1f449.png\"> <a href=\"https://t.co/lR35mRaJak\" target=\"_blank\" class=\"url-ext\" data-full-url=\"https://blockchainbird.org/t/btc/card/unsustainable\" rel=\"url noopener noreferrer\" title=\"https://blockchainbird.org/t/btc/card/unsustainable\">blockchainbird.org/t/btc/card/uns…</a>",
+            "tweet_avatar": "https://pbs.twimg.com/profile_images/1219242518707146752/V72yMMcK_normal.jpg",
+            "replies": "1",
+            "retweets": "",
+            "likes": "1",
+            "tweet_id": "1388940717364494339",
+            "url": "https://twitter.com/ManPrejudice/status/1388940717364494339",
+            "cardURLs": []
+        },
+        {
+            "time": "2021-04-26T11:17:36.000Z",
+            "full_name": "Kor Dwarshuis",
+            "user_name": "@kordwarshuis",
+            "tweet_text": "Gewoon deze sturen: <a href=\"https://t.co/h7LxD8h6T7\" target=\"_blank\" class=\"url-ext\" data-full-url=\"https://blockchainbird.org/t/btc/card/is-tulip-mania\" rel=\"url noopener noreferrer\" title=\"https://blockchainbird.org/t/btc/card/is-tulip-mania\">blockchainbird.org/t/btc/card/is-…</a>",
+            "tweet_avatar": "https://pbs.twimg.com/profile_images/535892173510549505/8ARaR9OF_normal.jpeg",
+            "replies": "",
+            "retweets": "",
+            "likes": "",
+            "tweet_id": "1386640599449808901",
+            "url": "https://twitter.com/kordwarshuis/status/1386640599449808901",
+            "cardURLs": []
+        },
+        {
+            "time": "2021-04-26T07:56:17.000Z",
+            "full_name": "Henk van Cann",
+            "user_name": "@henkvancann",
+            "tweet_text": "Schrijver Henk Rottinghuis, van dit artikel met onjuistheden, heeft klaarblijkelijk dit kaartsetje hard nodig: \n<a href=\"https://t.co/vW6QTzbV5N\" target=\"_blank\" class=\"url-ext\" data-full-url=\"https://blockchainbird.org/t/btc/\" rel=\"url noopener noreferrer\">blockchainbird.org/t/btc/</a>",
+            "tweet_avatar": "https://pbs.twimg.com/profile_images/1157935626215235585/PezOYTLY_normal.jpg",
+            "replies": "",
+            "retweets": "",
+            "likes": "6",
+            "tweet_id": "1386589937156431874",
+            "url": "https://twitter.com/henkvancann/status/1386589937156431874",
+            "cardURLs": []
+        },
+        {
             "time": "2021-04-15T18:35:07.000Z",
             "full_name": "Bitcoin Prejudice Man",
             "user_name": "@ManPrejudice",
