@@ -42,7 +42,7 @@ if (($h = fopen("{$content}", "r")) !== false) {
     // Each line in the file is converted into an individual array that we call $data
     // The items of the array are comma separated
     while (($data = fgetcsv($h, 1000, ",")) !== false) {
-        // Each individual array is being pushed into the nested array
+        // Each individual array is pushed into the nested array
         $cardContent[] = $data;
     }
 
