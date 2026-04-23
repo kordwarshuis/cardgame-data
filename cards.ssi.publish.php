@@ -26,8 +26,7 @@
     // cards
     $cards = file_get_contents("https://docs.google.com/spreadsheets/d/e/2PACX-1vTpzhZCGID2ki0BbjmfVk0hbmIwdX3PoppyftMka-Vcjr6v5wSbNgs99X7je6UL6b8oBG919jxfmwD9/pub?gid=1042086149&single=true&output=csv");
 
-    $var_str = var_export($cards, true);
-    file_put_contents('cards.ssi.csv', $var_str);
+    file_put_contents('cards.ssi.csv', $cards);
 
     }
 	
